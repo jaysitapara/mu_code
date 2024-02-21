@@ -48,7 +48,7 @@
 #     sum = 0
 #     for i in num:
 #         sum += int(i) ** len(num)
-#     return sum == int(num)
+#     return sum == 5
 # arr = [input(f"ENTER NUMBER {i+1} : ") for i in range(10)]
 # print(arr)
 # for i in arr:
@@ -235,3 +235,5 @@
 # outer()
 # print("global:", x)
 # ==================================================================
+
+# 13.
