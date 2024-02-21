@@ -1,4 +1,4 @@
-<h1>Marwadi University</h1>
+<h1 align="center">Marwadi University</h1>
 <h2>Python Programs</h2>
 
 chapter 1 : 
