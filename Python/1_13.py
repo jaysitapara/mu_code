@@ -188,21 +188,21 @@
 
 # 9.
 # write a program to create a function which accepts 2 numbers and one arithmatic operator. return the answer accordingly.
-# def arithmatic(num1,num2,operator):
-#     if operator == '+':
-#         return num1+num2
-#     elif operator == '-':
-#         return num1-num2
-#     elif operator == '*':
-#         return num1*num2
-#     elif operator == '/':
-#         return num1/num2
-#     else:
-#         return "INVALID OPERATOR"
-# num1 = float(input("ENTER NUMBER 1 : "))
-# num2 = float(input("ENTER NUMBER 2 : "))
-# operator = input("ENTER OPERATOR : ")
-# print(arithmatic(num1,num2,operator))
+def arithmatic(num1,num2,operator):
+    if operator == '+':
+        return num1+num2
+    elif operator == '-':
+        return num1-num2
+    elif operator == '*':
+        return num1*num2
+    elif operator == '/':
+        return num1/num2
+    else:
+        return "INVALID OPERATOR"
+num1 = float(input("ENTER NUMBER 1 : "))
+num2 = float(input("ENTER NUMBER 2 : "))
+operator = input("ENTER OPERATOR : ")
+print(arithmatic(num1,num2,operator))
 # ==================================================================
 
 # 10.
