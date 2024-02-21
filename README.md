@@ -1,5 +1,5 @@
-# mu_code
-https://github.com/jay-sitapara/mu_code.git
+<h1 align:"center">Marwadi University</h1>
+<h2>Python Programs</h2>
 
 chapter 1 : 
 <br>
